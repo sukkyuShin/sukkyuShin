@@ -1,3 +1,3 @@
 # **소개**
 
-**CS개발자 과정, AWS 클라우드활용 :computer:**
+**AWS클라우드 cs개발과정 :computer:**
