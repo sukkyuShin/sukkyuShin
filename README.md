@@ -8,3 +8,5 @@
 about me <br>
 :smile: Shin Sukkyu <br>
 :iphone: 010-0000-0000 <br>
+<br>
+https://img.shields.io/badge/-python-brightgreen
