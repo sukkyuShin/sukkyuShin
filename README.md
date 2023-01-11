@@ -7,5 +7,5 @@
 
 <br>
 
-:simple_smile: Shin Sukkyu
-:iphone: 010-****-**** <br>
+:simple_smile: Shin Sukkyu <br>
+:iphone: 010-0000-0000 <br>
