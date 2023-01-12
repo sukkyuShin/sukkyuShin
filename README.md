@@ -9,4 +9,4 @@ about me <br>
 :smile: Shin Sukkyu <br>
 :iphone: 010-0000-0000 <br>
 <br>
-<img src="https://img.shields.io/badge/Pyhon-?style=for-the-badge&logo=기술스택아이콘&logoColor=white">
+
